@@ -100,16 +100,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "manual/images/myfilename",
-      "output": {
-        "resource": {
-          "relative_path": "manual/images/myfilename"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "manual/index.md",
       "output": {
