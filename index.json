@@ -1,0 +1,27 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "| Package Example | 1.2.3",
+    "keywords": "This is the documentation for the Scripting APIs of this package."
+  },
+  "changelog/CHANGELOG.html": {
+    "href": "changelog/CHANGELOG.html",
+    "title": "Changelog | Package Example | 1.2.3",
+    "keywords": "Changelog All notable changes to this package will be documented in this file. The format is based on Keep a Changelog and this project adheres to Semantic Versioning. [0.1.0-exp] - 2023-09-05 This is the first release of Package Template. Package Template is a GitHub template repository for generating repositories for Unity packages hosted on GitHub."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| Package Example | 1.2.3",
+    "keywords": "This page redirects to the manual."
+  },
+  "license/LICENSE.html": {
+    "href": "license/LICENSE.html",
+    "title": "| Package Example | 1.2.3",
+    "keywords": "MIT License Copyright (c) 2023 Cubusky Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "manual/index.html": {
+    "href": "manual/index.html",
+    "title": "About Templates Package | Package Example | 1.2.3",
+    "keywords": "About Templates Package Templates Package is a GitHub Template for creating packages. The Wiki provides valuable information around package rules, guidelines and maintenance. It includes references to style guides, documentation and general knowledge about how to maintain a package. Replace this section with your description and every occurance of Templates Package with your package name to start your documentation off strong! Installing Templates Package To install this package, follow the instructions on the Package Manager documentation after adding the following lines in your manifest.json { \"dependencies\": { \"com.cubusky.core\": \"https://github.com/Cubusky/com.cubusky.core.git\" } } Requirements This version of Templates Package is compatible with the following versions of the Unity Editor: 2022.3 and later (recommended) Known Limitations Templates Package 0.1.0-exp includes the following known limitations: No currently known limitations."
+  }
+}
