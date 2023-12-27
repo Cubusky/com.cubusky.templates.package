@@ -1,5 +1,5 @@
 # About _Templates Package_
-Template for creating packages. The GitHub Wiki provides valuable information around package rules, guidelines and maintenance.
+_Templates Package_ is a GitHub Template for creating packages. The [Wiki](https://github.com/Cubusky/com.cubusky.templates.package/wiki) provides valuable information around package rules, guidelines and maintenance. It includes references to style guides, documentation and general knowledge about how to maintain a package.
 
 # Installing _Templates Package_
 To install this package, follow the instructions on the [Package Manager documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html) after adding the following lines in your `manifest.json`
