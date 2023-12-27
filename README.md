@@ -1,5 +1,5 @@
 # About _Templates Package_
-_Templates Package_ is a GitHub Template for creating packages. The [Wiki](https://github.com/Cubusky/com.cubusky.templates.package/wiki) provides valuable information around package rules, guidelines and maintenance. It includes references to style guides, documentation and general knowledge about how to maintain a package.
+_Templates Package_ is a GitHub Template for creating packages. The [Wiki](https://cubusky.github.io/com.cubusky.templates.package) provides valuable information around package rules, guidelines and maintenance. It includes references to style guides, documentation and general knowledge about how to maintain a package.
 
 Replace this section with your description and every occurance of _Templates Package_ with your package name to start your documentation off strong!
 
