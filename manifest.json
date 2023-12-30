@@ -81,6 +81,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "manual/images/favicon.svg",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/favicon.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "manual/images/logo.svg",
       "output": {
         "resource": {
