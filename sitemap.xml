@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cubusky.github.io/com.cubusky.templates.package/api/index.html</loc>
-    <lastmod>2024-01-07T11:07:04+00:00</lastmod>
+    <lastmod>2024-03-21T10:24:43+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://cubusky.github.io/com.cubusky.templates.package/changelog/CHANGELOG.html</loc>
-    <lastmod>2024-01-07T11:07:04+00:00</lastmod>
+    <lastmod>2024-03-21T10:24:43+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://cubusky.github.io/com.cubusky.templates.package/index.html</loc>
-    <lastmod>2024-01-07T11:07:04+00:00</lastmod>
+    <lastmod>2024-03-21T10:24:43+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://cubusky.github.io/com.cubusky.templates.package/license/LICENSE.html</loc>
-    <lastmod>2024-01-07T11:07:04+00:00</lastmod>
+    <lastmod>2024-03-21T10:24:43+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://cubusky.github.io/com.cubusky.templates.package/manual/index.html</loc>
-    <lastmod>2024-01-07T11:07:04+00:00</lastmod>
+    <lastmod>2024-03-21T10:24:43+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
